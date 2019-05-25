@@ -1,0 +1,3 @@
+[submodule "Software/mc/src/csw"]
+	path = Software/mc/src/csw
+	url = https://github.com/swabc/CSW.git
